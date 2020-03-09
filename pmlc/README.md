@@ -1,4 +1,4 @@
-# Anotaçõe do livro 
+# Anotações do livro 
 ### Python Machine Leaning Cookbook
 
 Chris Albon
